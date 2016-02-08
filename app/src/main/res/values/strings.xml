@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="description">Hello, I am Root. I\'m trying to save the world with the help
+    of the Machine, but oh, wait. Gotta save my girlfriend first.</string>
+    <string name="action_settings">Settings</string>
+</resources>
